@@ -14,5 +14,8 @@ Embracing innovation in the 1990s and 2000s, the MBTA introduced real-time track
 
 Link to the website : https://sites.google.com/view/ie6700group9/home
 
-<div class="flourish-embed" data-src="story/2085167"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed" data-src="story/2085167"> 
+<script src="https://public.flourish.studio/resources/embed.js">
+</script>
+</div>
 
